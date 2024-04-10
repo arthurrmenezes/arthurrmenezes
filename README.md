@@ -1,4 +1,4 @@
-## Olá, eu sou o Arthur Menezes. 👋
+## Olá, sou o Arthur Menezes. 👋
 
 • Estudante de Engenheria da Computação <br/>
 • Estudando Java ☕
