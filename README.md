@@ -1,5 +1,7 @@
 ## Arthur Menezes. 👋
 
+<a href="https://www.linkedin.com/in/arthuralbuquerquemenezes/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
+
 ## <samp>Hello World!</samp>
 
 <samp>Sou Arthur Menezes, desenvolvedor Back-end, estudante de Engenharia de Software na FIAP, e apaixonado por resolver problemas com tecnologia.
@@ -8,8 +10,6 @@
 - .NET
 - ASP.NET
 - MySQL
-
-<a href="https://www.linkedin.com/in/arthuralbuquerquemenezes/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
 
 **Tecnologias:**
 
