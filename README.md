@@ -1,8 +1,9 @@
-## Olá, sou o Arthur Menezes. 👋
+## Arthur Menezes. 👋
 
-**Desenvolvedor Back-end**
+## <samp>Hello World!</samp>
 
-- Estudante de Engenheria de Software
+<samp>Sou Arthur Menezes, desenvolvedor Back-end, estudante de Engenharia de Software na FIAP, e apaixonado por resolver problemas com tecnologia.
+
 - C#
 - .NET
 - ASP.NET
