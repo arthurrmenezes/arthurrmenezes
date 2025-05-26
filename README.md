@@ -4,8 +4,7 @@
 
 ## <samp>Hello World!</samp>
 
-<samp>Desenvolvedor back-end
-<samp>Estudante de Engenharia de Software na FIAP.
+<samp>Desenvolvedor back-end. Estudante de Engenharia de Software na FIAP.
 
 - C#
 - .NET
