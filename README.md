@@ -4,11 +4,12 @@
 
 ## <samp>Hello World!</samp>
 
-<samp>Sou Arthur Menezes, desenvolvedor Back-end, estudante de Engenharia de Software na FIAP e apaixonado por resolver problemas com tecnologia.
+<samp>Desenvolvedor back-end
+<samp>Estudante de Engenharia de Software na FIAP.
 
 - C#
 - .NET
-- ASP.NET
+- Java
 - MySQL
 
 **Tecnologias:**
