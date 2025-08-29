@@ -4,7 +4,7 @@
 
 ## <samp>Hello World!</samp>
 
-<samp>Sou Engenheiro de Software, atuando atualmente trabalho como desenvolvedor back-end com foco em C# e .NET. Tenho também experiência com desenvolvimento mobile utilizando Flutter e Dart.
+<samp>Engenheiro de Software, atuando atualmente como desenvolvedor back-end com foco em C# e .NET. Tenho também experiência com desenvolvimento mobile utilizando Flutter e Dart.
 
 **Tecnologias:**
 
